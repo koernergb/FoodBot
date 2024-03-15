@@ -1,0 +1,351 @@
+food_pantries = [
+{
+"name": "Ann Arbor Second Baptist Church",
+"notes": "Bring ID, one visit per month",
+"phone": "734 663-9369 ext. 7",
+"address": "850 Red Oak Rd, Ann Arbor, MI 48103",
+"latitude": 42.28996501143683,
+"longitude": -83.75986474232931,
+"opening_hours": [
+{"day": "Friday", "open": "12:00", "close": "13:00"}
+]
+},
+{
+"name": "Bryant Community Center",
+"notes": "Two visits per month if eligibility is met. Bring photo ID and proof of residence.", 
+"phone": "734 994-2985",
+"address": "3 West Eden Ct, Ann Arbor, MI 48103",
+"latitude": 0.42.23403895042577,
+"longitude": -83.71249632164725,
+"opening_hours": [
+{"day": "Wednesday", "open": "08:30", "close": "15:00"},
+{"day": "Thursday", "open": "08:30", "close": "15:00"},
+{"day": "Saturday", "open": "12:00", "close": "16:00"}
+]
+},
+{
+"name": "Jewish Family Services",
+"notes": "Must be a client of JFS, call for information. Sign-up can happen same day
+during pantry hours.",
+"phone": "734 769-0209",
+"address": "2245 S. State St, Ann Arbor, MI 48104",
+"latitude": 42.25428618265047,
+"longitude": -83.73922253314858,
+"opening_hours": [
+{"day": "Tuesday", "open": "11:00", "close": "16:00"},
+{"day": "Thursday", "open": "11:00", "close": "16:00"}
+]
+},
+{
+"name": "Muslim Community Association of Ann Arbor and Vicinity",
+"notes": "Open distribution",
+"phone": "734 665-6772"
+"address": "2301 Plymouth Rd, Ann Arbor, MI 48105",
+"latitude": 42.301368828994555, 
+"longitude": -83.71466756198109,
+"opening_hours": [
+{"day": "Tuesday", "weeks": [1, 3], "open": "16:00", "close": "18:00"}
+]
+},
+{
+"name": "Northside Community Center (Catholic Social Services)",
+"notes": "Current ID required. Only one full shopping experience per month. Can receive fresh produce weekly.",
+"phone": "734 662-4462",
+"address": "815 Taylor St, Ann Arbor, MI 48105",
+"latitude": 42.29825420532669,
+"longitude": -83.73541526198126,
+"opening_hours": [
+{"day": "Tuesday", "open": "14:00", "close": "17:30"},
+{"day": "Thursday", "open": "10:00", "close": "14:30"},
+{"day": "Saturday", "weeks": [2, 4], "open": "10:00", "close": "12:30"}
+]
+},
+{
+"name": "Salvation Army",
+"notes": "Clients must bring photo ID, Social Security cards for proof of all dependents in household, current rental lease, proof of household income.",
+"phone": "734 668-8353",
+"address": "100 Arbana Dr, Ann Arbor, MI 48103",
+"latitude": 42.28236549774096, 
+"longitude": -83.76180787547618,
+"opening_hours": [
+{"day": "Tuesday", "open": "10:00", "close": "11:45"},
+{"day": "Tuesday", "open": "13:00", "close": "15:00"},
+{"day": "Thursday", "open": "10:00", "close": "11:45"},
+{"day": "Thursday", "open": "13:00", "close": "15:00"}
+]
+},
+{
+"name": "The Back Door Food Pantry @ St. Clare Episcopal Church",
+"notes": "Open distribution.",
+"phone": "734 662-2449",
+"address": "2309 Packard St, Ann Arbor, MI 48104",
+"latitude": 42.254647546617804,
+"longitude": -83.72437646198392,
+"opening_hours": [
+{"day": "Thursday", "open": "16:00", "close": "19:00"}
+]
+},
+{
+"name": "Trinity Lutheran Church",
+"notes": "Fresh Produce Only Available Friday June 16th-Friday September 8th",
+"phone": "734 662-4419",
+"address": "1400 W Stadium Blvd, Ann Arbor, MI 48103",
+"latitude": 42.264292370616104,
+"longitude": -83.763988733148,
+"opening_hours": [
+{"day": "Friday", "open": "10:00", "close": "12:00"}
+]
+},
+{
+"name": "Hope Medical Clinic",
+"notes": "For produce, call ahead to schedule an appointment. Can receive produce up to one time per week. For food pantry, call ahead to schedule an appointment. Can attend one food pantry visit per thirty day period. If you are experiencing a food emergency, please call to receive immediate assistance.",
+"phone": "734 484-2989",
+"address": "518 Harriet St, Ypsilanti, MI 48197",
+"latitude": 42.2355863889411,
+"longitude": -83.61335516220531,
+"opening_hours": [
+{"day": "Monday", "open": "14:00", "close": "15:00"},
+{"day": "Wednesday", "open": "13:00", "close":"16:00"},
+{"day": "Thursday", "open": "17:30", "close":"19:00"},
+{"day": "Friday", "open": "09:00", "close": "12:00"},
+{"day": "Saturday", "open":"10:00", "close":"12:00"},
+{"day": "Saturday", "open": "16:00", "close": "17:00"},
+{"day": "Sunday", "open": "16:00", "close": "17:00"}
+]
+},
+{
+"name": "Bethesda Bible Church",
+"notes": "Please call ahead to reserve a spot. You may call up to two weeks in advance until all spots are filled. Please bring state ID.",
+"phone": "734 483-7279",
+"address": "1800 S Huron St, Ypsilanti, MI 48197",
+"latitude": 42.2156363262621,
+"longitude": -83.62016609466593,
+"opening_hours": [
+{"day": "Wednesday", "weeks": [2, 4], "open": "10:30", "close": "12:00"}
+]
+},
+{
+"name": "Brown Chapel AME",
+"notes": "Hot meals. Open distribution.",
+"phone": "734 482-7050",
+"address": "1043 W Michigan Ave, Ypsilanti, MI 48197",
+"latitude": 42.235384642820925,
+"longitude": -83.62860416582349,
+"opening_hours": [
+{"day": "Friday", "open": "11:00", "close": "12:30"}
+]
+},
+{
+"name": "Calvary Bible Church",
+"notes": "Open distribution",
+"phone": "734 664-7306",
+"address": "8318 Carpenter Rd, Ypsilanti, MI 48197",
+"latitude": 42.16616825470463,
+"longitude":-83.6802218178125,
+"opening_hours": [
+{"day": "Saturday", "weeks": [2, 4], "open": "10:00", "close": "12:00"}
+]
+},
+{
+"name": "Christian Life Center Church - Abundant Life Food Pantry",
+"notes": "Please call ahead.",
+"phone": "734 485-4670",
+"address": "2146 Moeller Ave, Ypsilanti, MI 48198",
+"latitude": 42.21504896249176,
+"longitude": -83.55100711965693,
+"opening_hours": [
+{"day": "Tuesday", "weeks": [2, 4], "open": "14:00", "close": "15:00"}
+]
+},
+{
+"name": "Christian Love Fellowship",
+"notes": "Limit once per month. Must have photo ID and social security card.",
+"phone": "734 483-7967",
+"address": "1601 Stamford, Ypsilanti, MI 48197",
+"latitude": 42.26370549052421,
+"longitude": -83.579046433148,
+"opening_hours": [
+{"day": "Wednesday", "weeks": [2, 3], "open": "12:00", "close": "14:00"}
+]
+},
+{
+"name": "Community Church of God",
+"notes": "Open distribution.",
+"phone": "734 272-1552",
+"address": "565 Jefferson St, Ypsilanti, MI 48197",
+"latitude": 42.22918890411157,
+"longitude": -83.61948428897337,
+"opening_hours": [
+{"day": "Friday", "weeks": [1, 3], "open": "12:00", "close": "14:00"}
+]
+},
+{
+"name": "Emmanuel Lutheran Church",
+"notes": "Need to have current ID. Limit once every three months.",
+"phone": "734 482-7121",
+"address": "201 N River, Ypsilanti, MI 48198",
+"latitude": 42.24305159924512, 
+"longitude": -83.60895906397322,
+"opening_hours": [
+{"day": "Monday", "open": "15:00", "close": "15:45"},
+{"day": "Tuesday", "open": "17:00", "close": "18:00"},
+{"day": "Wednesday", "open": "15:00", "close": "15:45"},
+{"day": "Thursday", "open": "15:00", "close": "15:45"}
+]
+},
+{
+"name": "Family Inc.",
+"notes": "Located inside Christian Tabernacle Church. Open distribution",
+"phone": "734 480-4470",
+"address": "983 E. Michigan Ave, Ypsilanti, MI 48198",
+"latitude": 42.24368586337857, 
+"longitude": -83.59352951965525,
+"opening_hours": [
+{"day": "Saturday", "weeks": [5], "open": "09:30", "close": "12:00"}
+]
+},
+{
+"name": "Grace Fellowship Church",
+"notes": "Open distribution.",
+"phone": "734 320-5300",
+"address": "1301 S Harris, Ypsilanti, MI 48198",
+"latitude": 42.226490285548984,
+"longitude": -83.58154384849155,
+"opening_hours": [
+{"day": "Saturday", "weeks": [1, 2], "open": "11:30", "close": "13:30"}
+]
+},
+{
+"name": "Greater Faith Mission",
+"notes": "Perishable & non-perishable items. No eligibility requirements. Some clothing items available.",
+"phone": "734 217-9014",
+"address": "670 Onandaga, Ypsilanti, MI 48198",
+"latitude": 42.236044990344325, 
+"longitude": -83.56994787642353,
+"opening_hours": [
+{"day": "Tuesday", "weeks": [1, 4], "open": "13:00", "close": "16:00"},
+{"day": "Tuesday", "open": "20:00", "close": "21:00"}
+]
+},
+{
+"name": "Islamic Association of Ypsilanti",
+"notes": "Open Distribution. Not visible from road. Located behind Wendy's.",
+"phone": "734 483-8092",
+"address": "850 S Hewitt St, Ypsilanti, MI 48197",
+"latitude": 42.239137365879046,
+"longitude": -83.57979970999882,
+"opening_hours": [
+{"day": "Tuesday", "open": "10:45", "close": "12:30"}
+]
+
+},
+{
+"name": "Joyful Treats Community Development Corp.",
+"notes": "Open distribution.",
+"phone": "",
+"address": "103 Ecorse Rd, Ypsilanti, MI 49198",
+"latitude": 42.23941152929924,
+"longitude": -83.5969026619848,
+"opening_hours": [
+{"day": "Tuesday", "weeks": [1], "open": "14:30", "close": "16:30"}
+]
+},
+{
+"name": "Messias Temple Church",
+"notes": "Call ahead for more information. From October 1st to March 31st, clients are eligible to receive groceries and a hot meal. Two separate lines, clients may receive both. From April 1st to September 30th, ONLY groceries are available. NO hot meals during this time. In case of emergency, please call.",
+"phone": "734 483-8092",
+"address": "200 Harriet St, Ypsilanti, MI 48197",
+"latitude": 42.23392560828403,
+"longitude": -83.61502234664376,
+"opening_hours": [
+{"day": "Tuesday", "open": "10:45", "close": "12:30"}
+]
+},
+{
+"name": "Metropolitan Memorial Baptist Church",
+"notes": "Meet with director to determine eligibility. Bring photo ID.",
+"phone": "734 483-0092",
+"address": "431 Hawkins St, Ypsilanti, MI 48197",
+"latitude": 42.235018206908784, 
+"longitude": -83.62171407547906,
+"opening_hours": [
+{"day": "Tuesday", "open": "13:00", "close": "14:00"}
+]
+},
+{
+
+{
+"name": "Salvation Army of Ypsilanti",
+"notes": "Must be an Ypsilanti resident. Bring photo ID, proof of residency/lease, proof of income. Can visit pantry once per month and receive produce distribution once per week.",
+"phone": "734 482-4700",
+"address": "9 South Park, Ypsilanti, MI 48198",
+"latitude": 42.24052181421865,
+"longitude": -83.60590026198474,
+"opening_hours": [
+{"day": "Monday", "open": "17:00", "close": "18:00"},
+{"day": "Tuesday", "open": "13:00", "close": "15:00"},
+{"day": "Thursday", "open": "13:00", "close": "15:00"},
+{"day": "Thursday", "open": "17:00", "close": "18:00"},
+{"day": "Sunday", "open": "08:45", "close": "09:45"}
+]
+},
+{
+"name": "Schooner Cove",
+"notes": "Open distribution. Located in clubhouse.",
+"phone": "",
+"address": "8753 Spinnaker Way, Ypsilanti, MI 48197",
+"latitude": 42.212972827352765,
+"longitude": -83.58753424849245,
+"opening_hours": [
+{"day": "Tuesday", "weeks": [4], "open": "14:00", "close": "16:30"}
+]
+
+},
+{
+"name": "Second Baptist Church-Care & Share Ministry",
+"notes": "Contact Anita Miller or Renee Scott for additional information.",
+"phone": "734 483-4342",
+"address": "301 S. Hamilton St, Ypsilanti, MI 48197",
+"latitude": 42.23727816382385,
+"longitude": -83.61709668897285,
+"opening_hours": [
+]
+},
+
+{
+"name": "SOS Community Services",
+"notes": "Please call ahead to schedule a pantry appointment. The pantry is available 12 times per calendar year per household. No appointment necessary to receive fresh produce (limit once per week). Receiving produce does not count as one of the 12 visits per year.",
+"phone": "734 484-9945",
+"address": "114 North River St, Ypsilanti, MI 48197",
+"latitude": 42.242636513816684,
+"longitude": -83.60823933314927,
+"opening_hours": [
+{"day": "Tuesday", "open": "13:00", "close": "18:30"},
+{"day": "Wednesday", "open": "09:00", "close": "13:00"}
+]
+},
+{
+"name": "St. John the Baptist Church & St. Vincent de Paul - Food Cupboard",
+"notes": "Available once every month. Must have current photo ID and proof of Washtenaw county residency.",
+"phone": "734 483-3360",
+"address": "411 Florence, Ypsilanti, MI 48197",
+"latitude": 42.24642178186895,
+"longitude": -83.618317346643,
+"opening_hours": [
+
+{"day": "Thursday", "open": "18:30", "close": "19:30"}
+]
+},
+{
+"name": "Victorious Life Church of God",
+"notes": "Open distribution.",
+"phone": "734 482-4293",
+"address": "860 E Clark Rd, Ypsilanti, MI 48198",
+"latitude": 42.26046560578417,
+"longitude": -83.59774165601532,
+"opening_hours": [
+{"day": "Tuesday", "weeks": [2, 3], "open": "18:00", "close": "19:30"}
+]
+}
+
+]

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Pantry Finder</title>
+</head>
+<body>
+  <div id="app">
+    <h1>Food Pantry Finder</h1>
+    <div>
+      <label for="query">Enter your query:</label>
+      <input type="text" id="query" v-model="query">
+    </div>
+    <button @click="submitQuery">Submit</button>
+    <div v-if="response">
+      <h2>Response:</h2>
+      <p>{{ response }}</p>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="./src/main.js"></script>
+</body>
+</html>
