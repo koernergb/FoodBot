@@ -4,8 +4,10 @@ from datetime import datetime
 from math import radians, sin, cos, sqrt, atan2
 import json
 from utils import generate_user_context
+from flask_cors import CORS 
 
 app = Flask(__name__)
+CORS(app)
 
 # Load the LLAMA 2 model and tokenizer
 model_name = "openlm-research/open_llama_7b"

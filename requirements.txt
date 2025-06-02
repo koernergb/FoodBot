@@ -1,0 +1,10 @@
+flask
+flask-cors
+transformers
+torch
+langchain
+cohere
+python-dotenv
+streamlit
+streamlit-geolocation
+sqlalchemy
